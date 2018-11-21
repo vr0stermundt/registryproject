@@ -1,0 +1,50 @@
+@font-face {
+	font-family: 'lazer';
+	src: url('Lazer84.ttf');
+	font-size: 15px;
+}
+
+#info,td {
+
+	border-color: white;
+	width: 1050px;
+	column-width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 15px;
+}
+
+#top {
+	background-color: transparent;
+}
+
+input[type=text]{
+	width: 200px;
+	background-color: transparent;
+	color: white;
+	font-family: lazer;
+	border: 2px solid;
+	font-size: 20px;
+}
+
+input[type=button]{
+	background-color: transparent;
+	color: white;
+	font-family: lazer;
+	border: 2px solid;
+	font-size: 20px;
+}
+
+body {
+	background-image: url("mountground.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	color: white;
+	font-family: lazer;
+	font-size: 20px;
+}
+
+.heading {
+	color: white;
+	font-size: 50px;
+}
